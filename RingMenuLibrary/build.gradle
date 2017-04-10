@@ -18,3 +18,5 @@ android {
         }
     }
 }
+
+apply from: "bintrayUpload.gradle"
