@@ -8,7 +8,7 @@ android  ring menu 环形菜单控件
 1、直接下载项目 将ringMenulibrary 导入项目中<br>
 2、gradle
 ```java
-  compile ''
+  compile 'com.caijiapeng.library.ringmenu:RingMenuLibrary:0.0.1'
  ```
  
  ## 使用
