@@ -1,5 +1,7 @@
 # RingMenuWidget
-android  ring menu 环形菜单控件
+android  ring menu 环形菜单控件<br>
+由开源控件 <a href="https://code.google.com/archive/p/radial-menu-widget/">radial-menu-widget</a> 改造<br>
+在此感谢此开源作者
 
 ## 效果 
 ![](https://github.com/caijiapeng0102/RingMenuWidget/blob/master/screenshots/view.png)
